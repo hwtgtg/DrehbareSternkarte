@@ -1,4 +1,4 @@
-# DrehbareSternkarte
+# Drehbare Sternkarte
 Drehbare Sternkarte am PC für verschiedene Breiten
 
 Das Programm ist ein Java-Programm. Es setzt eine aktuelle JRE voraus.
@@ -20,9 +20,10 @@ Zusätzlich kann die Sternkarte auf verschiedene Orte/Breiten eingestellt werden
 Die Karten dazu habe ich mit Hilfe der folgtenden Quelle erzeugt:
 
 Michael Uhlemann <Michael.Uhlemann@Informatik.uni-oldenburg.de>
+
 http://www.astro-ag.uni-oldenburg.de/Download/Drehbare/
 
-Vielen Dank dafür.
+Vielen Dank für die tolle PS-Datei.
 
 *************************************************************************************************
 
