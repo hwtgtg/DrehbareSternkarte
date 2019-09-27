@@ -39,7 +39,8 @@ Bei der Maske ein Rechteck um das Deklinationslineal, Speichern unter spezial_L.
 *******************************************
 Erzeuge z.B. mit Ghostscript eine Bildschirmkopie -2
 
-Die Bilder kann man auch über die Zwischnablage in
+Die Bilder kann man auch über die Zwischnablage in paint.net importieren und von dort aus weiterbearbeiten
+( Rechte Maustaste auf Kopf des Zeichenfensters!)
 *******************************************
 
 
@@ -63,5 +64,8 @@ In der Klasse STKBilder.java die beiden Methoden
 * comboboxInitialisieren
 * tuWas 
 ergänzen/editieren
+*******************************************
 
-Als jar exportieren, z.B. mit Eclipse
+Programm bearbeiten:
+* in Eclipse: Als jar exportieren
+* mit BlueJ: die Datei package.bluej im src-Verzeichnis ist dafür vorbereitet.
