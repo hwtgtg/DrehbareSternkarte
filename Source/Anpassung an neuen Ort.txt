@@ -1,0 +1,67 @@
+Für Programmierer:
+
+Anpassungen für einen neuen Ort
+****************************************************
+Änderungen in der Datei kl990109.ps mit einem Editor wie Notepad++:
+Ab Zeile 41:
+Breite, Länge und Ortsnamen ändern
+Siehe Kommentare
+
+Zeile 104:
+/grenzhelligkeit 4.5 def  % Helligkeit der schwächsten darzustellenden Sterne
+
+Zeile 112:
+/folie 1 def  	% Ändern Sie die Zahl zu einer 1, wenn Sie die Karte
+		% komplett auf Folie drucken möchten, um sie auf einem 
+		% Overheadprojektor zu präsentieren. Damit sie von
+		% Seminarteilnehmern gesehen werden kann, wird die 
+		% teilweise die Strichdicke geändert und einige Elemente
+		% fortgelassen. Wenn Sie die Karte auf Papier drucken wollen,
+		% empfehlen wir die Angabe 0.
+
+Zeile 125: 
+/farbe 1 def	% Wenn die Zahl 1 ist, wird eine farbige Karte gedruckt.
+
+
+Beispiel: London
+Werte aus Wikipedia:
+
+51° 31′ N = 51.0517 N , 0° 7′ W
+
+gespeichert als london_kl990109.ps
+*******************************************
+
+Erzeuge z.B. mit Ghostscript eine Bildschirmkopie 
+
+Schneide ein Quadrat um die Maske und das Bild aus, möglichst nahe an den Kreis.
+Maske speichern mit spezial_M.gif, Karte mit spezial_K.gif.
+Bei der Maske ein Rechteck um das Deklinationslineal, Speichern unter spezial_L.gif.
+*******************************************
+Erzeuge z.B. mit Ghostscript eine Bildschirmkopie -2
+
+Die Bilder kann man auch über die Zwischnablage in
+*******************************************
+
+
+Nachbearbeiten der Bilder z.B. mit paint.net:
+
+Maske:
+Mit dem Zauberstab in die Ecken des Bilds klicken und löschen.
+Genauso innerhalb der Maske die durchsichtigen Beriche mit dem Zauberstab anklicken und löschen.
+
+Karte:
+Mit dem Zauberstab in die Ecken des Bilds klicken und löschen.
+
+Lineal:
+Leinwandgröße ändern, sodass die Leinwand quadratisch ist
+Mit Zauberstab Hintergrund löschen.
+Lineal markieren und auf die Mitte verschieben. Dazu Lineale anzeigen.
+ 
+*******************************************
+Zur Ergänzung weiterer Orte in der Auswahl:
+In der Klasse STKBilder.java die beiden Methoden
+* comboboxInitialisieren
+* tuWas 
+ergänzen/editieren
+
+Als jar exportieren, z.B. mit Eclipse

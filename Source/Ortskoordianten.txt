@@ -1,0 +1,9 @@
+Berlin: 	52 31' N  13 23' E
+Gauting: 	48 04' N  11 22' E
+Kapstadt 	34 04' S  18 51' W
+Libreville: 0.39   N  09 27' W 
+Mt. Tahat:	23 16' N  05 31' E
+Nordkap:    71 10' N  25 47' E
+Oslo:		59 55' N  10 45' E
+Rom:		41 54' N  12 25' E
+London:		51 31' N  00 07' E
