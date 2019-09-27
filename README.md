@@ -25,6 +25,8 @@ http://www.astro-ag.uni-oldenburg.de/Download/Drehbare/
 
 Vielen Dank für die tolle PS-Datei.
 
+Das Programm kann leicht mit neuen Orten ergänzt werden. Sie den Ordner Source.
+
 *************************************************************************************************
 
 Drehbare Sternenkarte auf dem Computerbildschirm
