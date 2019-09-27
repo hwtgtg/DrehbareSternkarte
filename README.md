@@ -12,6 +12,7 @@ oder
 
 • java -jar drehbaresternkarte.jar 
 
+*************************************************************************************************
 Das Programm bringt die drehbare Sternenkarte auf den PC.
 
 Es ist entstande, weil im Unterricht das Hantieren mit OV-Folien recht mühsam war.
@@ -25,7 +26,7 @@ http://www.astro-ag.uni-oldenburg.de/Download/Drehbare/
 
 Vielen Dank für die tolle PS-Datei.
 
-Das Programm kann leicht mit neuen Orten ergänzt werden. Sie den Ordner Source.
+Das Programm kann leicht mit neuen Orten ergänzt werden. Siehe Source.
 
 *************************************************************************************************
 
